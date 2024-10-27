@@ -1,0 +1,12 @@
+{
+  "api_key": [
+    "sk-sfhduezfknnhntxiqeojoihudfhwreqrjyukazejklvxrosa",
+    "sk-jpilxgfpincjhugsbnbjyraegqmvaltrzcluuweqpdixkxrv",
+    "sk-ougtfymohajpdezwuhyfkgpttxxwelqtjpvmhmpoktrzhjdl",
+    "sk-sngkqkdgotdlmvlhhsjxbyaoylhjxstpqezuaqazqiqtfvvi",
+    "sk-dvfjzsvxvvguyhabgxzlcwaqoaehwooibtahaunopzfczefb",
+    "sk-qavgtuwdmazzddrkjcrwiwgbfpjfvdakcjikqikubqqqukux"
+  ],
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "base_url": "https://api.siliconflow.cn/v1"
+}
